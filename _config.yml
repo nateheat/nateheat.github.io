@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+#theme: minima
+
+title: Nateheat Space
+description: The profile page for Nate on Github
+show_downloads: false
+google_analytics: UA-106080597-1
