@@ -1,5 +1,4 @@
 ---
-<!-- layout: page -->
 title: Other Sites
 permalink: /othersites/
 ---
